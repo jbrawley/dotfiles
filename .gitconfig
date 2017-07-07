@@ -1,0 +1,13 @@
+[user]
+email = jake.brawley@gmail.com
+name = Jake Brawley
+
+[core]
+editor = vim
+excludesfile = /home/jbrawley/.gitignore_global
+whitespace = tabwidth=4
+
+
+
+[merge]
+tool = vimdiff
