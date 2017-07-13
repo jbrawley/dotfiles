@@ -3,3 +3,4 @@ zsh
 nodejs
 npm
 google-chrome-stable
+postman
