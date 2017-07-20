@@ -2,6 +2,8 @@
 #ssh-keygen -t rsa
 
 #install oh-my-zsh
+#sudo apt-get install zsh
+#chsh -s $(which zsh)
 #sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 #install google-chrome-stable
@@ -14,9 +16,9 @@
 # sudo apt-get install google-chrome-stable
 
 #install postman
-#wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
-#sudo tar -xzf postman.tar.gz -C /opt
-#rm postman.tar.gz
+#wget -q --show-progress "https://dl.pstmn.io/download/latest/linux64" --content-disposition
+#sudo tar -xzf Postman-linux-x64-5.0.2.tar.gz -C /opt
+#rm Postman-linux-x64-5.0.2.tar.gz
 #sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
 #!/usr/bin/env bash
