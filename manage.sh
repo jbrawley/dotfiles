@@ -1,3 +1,5 @@
+#sudo apt-get install vim
+
 #create ssh key and add to github
 #ssh-keygen -t rsa
 
