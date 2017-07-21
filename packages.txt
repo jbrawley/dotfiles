@@ -1,6 +1,8 @@
 vim
 git
 zsh
+apache2
+mysql
 nodejs
 npm
 google-chrome-stable
