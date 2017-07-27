@@ -23,6 +23,8 @@
 #rm Postman-linux-x64-5.0.2.tar.gz
 #sudo ln -s /opt/Postman/Postman /usr/bin/postman
 
+#sudo apt-get install maven
+
 #!/usr/bin/env bash
 
 # utility
