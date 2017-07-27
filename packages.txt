@@ -7,3 +7,5 @@ nodejs
 npm
 google-chrome-stable
 postman
+jenkins
+maven
