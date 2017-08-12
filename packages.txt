@@ -9,3 +9,4 @@ google-chrome-stable
 postman
 jenkins
 maven
+sublime-text
